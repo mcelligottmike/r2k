@@ -1,0 +1,21 @@
+{
+  "log": {
+    "name": "R2K FW",
+    "logLevel": "debug"
+  },
+  "messagehub": [{
+    "name": "Message Hub-k1",
+    "label": "messagehub",
+    "plan": "standard",
+    "credentials": {
+      "mqlight_lookup_url": "",
+      "api_key": "",
+      "kafka_admin_url": "",
+      "kafka_rest_url": "",
+      "kafka_brokers_sasl": [
+      ],
+      "user": "",
+      "password": ""
+    }
+  }]
+}
